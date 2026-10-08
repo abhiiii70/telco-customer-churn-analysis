@@ -1,0 +1,14 @@
+TELCO 500 PROJECT — QUICK SUMMARY
+
+Customers after cleaning: 500
+Churned customers: 101
+Overall churn rate: 20.20%
+Average monthly charge: 56.83
+Average tenure: 36.46 months
+
+Highest contract churn: Month-to-month (30.39%)
+Highest internet-service churn: Fiber optic (26.14%)
+Highest payment-method churn: Electronic check (23.67%)
+
+Duplicates detected: 5
+Missing values before cleaning: 32
