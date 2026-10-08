@@ -25,3 +25,8 @@ Final cleaned dataset: 500 customers.
 
 ## Important
 The insights in the report are calculated directly from the same 500-customer cleaned dataset included in this project.
+
+## Team Members
+
+- Abhishek Soni
+- Ayush Patil
