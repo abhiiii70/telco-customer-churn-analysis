@@ -28,5 +28,5 @@ The insights in the report are calculated directly from the same 500-customer cl
 
 ## Team Members
 
-- Abhishek Soni
-- Ayush Patil
+- Abhishek Soni IU2441230634
+- Ayush Patil   IU2441230668
